@@ -1,2 +1,2 @@
 # hello-world
-My Repository for Big Ideas!
+my repository for bigideas!
